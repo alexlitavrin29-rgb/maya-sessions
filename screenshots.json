@@ -1,0 +1,1765 @@
+{
+  "count": 352,
+  "screenshots": [
+    {
+      "path": "Diagnostics/001_Profile_loading_error.jpg",
+      "bytes": 77540,
+      "format": "jpeg"
+    },
+    {
+      "path": "Homework/001_No_tasks_due.jpg",
+      "bytes": 76045,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/001_Learn_index.jpg",
+      "bytes": 87009,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/002_Practice_Review_index.jpg",
+      "bytes": 87655,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/About this Program/001_Welcome.jpg",
+      "bytes": 136639,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Overview/001_Overview.jpg",
+      "bytes": 112305,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/001_Intro.jpg",
+      "bytes": 74312,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/002_Checklist_blank.jpg",
+      "bytes": 125330,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/003_Checklist_example.jpg",
+      "bytes": 126929,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/004_Checklist_example_bottom.jpg",
+      "bytes": 121020,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/005_Tip1_Set_alarm.jpg",
+      "bytes": 82226,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/006_Set_alarm_detail.jpg",
+      "bytes": 51200,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/007_Remember_to_set_alarm.jpg",
+      "bytes": 62062,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/008_Successfully_completed.jpg",
+      "bytes": 43255,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/009_Sleep_time.jpg",
+      "bytes": 54780,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/010_Exercise_and_eating.jpg",
+      "bytes": 54660,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/011_Naps.jpg",
+      "bytes": 52582,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/012_Get_enough_sleep.jpg",
+      "bytes": 36368,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/Sleep Tips/013_Caffeine.jpg",
+      "bytes": 38056,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/001_Intro.jpg",
+      "bytes": 80393,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/002_Q1_question.jpg",
+      "bytes": 79576,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/003_Q1_feedback_correct.jpg",
+      "bytes": 86461,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/004_Q2_question.jpg",
+      "bytes": 71565,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/005_Q2_feedback_correct.jpg",
+      "bytes": 111939,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/006_Q3_question.jpg",
+      "bytes": 87989,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/007_Q3_feedback_correct.jpg",
+      "bytes": 103526,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Learn/True or False/008_Completed.jpg",
+      "bytes": 72952,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/001_Intro.jpg",
+      "bytes": 87525,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/002_Situation_blank.jpg",
+      "bytes": 74863,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/003_Situation_example.jpg",
+      "bytes": 80391,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/004_Thoughts_blank.jpg",
+      "bytes": 83905,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/005_Thoughts_example.jpg",
+      "bytes": 87097,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/006_Feelings_blank_top.jpg",
+      "bytes": 68584,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/007_Feelings_example_bottom.jpg",
+      "bytes": 64263,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/008_Feelings_example_continue.jpg",
+      "bytes": 63456,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/009_Behaviors_blank.jpg",
+      "bytes": 79322,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/010_Behaviors_example.jpg",
+      "bytes": 83965,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/011_Summary_top.jpg",
+      "bytes": 100750,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/012_Summary_bottom.jpg",
+      "bytes": 93280,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Practice/Connecting Your Dots/013_Completed.jpg",
+      "bytes": 75846,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/001_Intro.jpg",
+      "bytes": 73477,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/002_Q1_blank.jpg",
+      "bytes": 87099,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/003_Q1_selected_correct.jpg",
+      "bytes": 94739,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/004_Q2_blank.jpg",
+      "bytes": 83474,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/005_Q2_selected_correct.jpg",
+      "bytes": 89103,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/006_Q3_blank.jpg",
+      "bytes": 82467,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/007_Q3_selected_correct.jpg",
+      "bytes": 89326,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/008_Q4_blank.jpg",
+      "bytes": 82807,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/009_Q4_selected_correct.jpg",
+      "bytes": 89981,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/010_Q5_blank.jpg",
+      "bytes": 102600,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/011_Q5_selected_correct.jpg",
+      "bytes": 107273,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Quiz/012_Completed.jpg",
+      "bytes": 69179,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 1/Review/Wrap Up/001_Wrap_Up.jpg",
+      "bytes": 113646,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/001_Session_index.jpg",
+      "bytes": 80879,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/001_001_Homework_index.jpg",
+      "bytes": 57214,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/001_Exercise_selection.jpg",
+      "bytes": 51942,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/002_Congrats_popup.jpg",
+      "bytes": 56716,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/TINTED Thoughts/001_Before_and_after.jpg",
+      "bytes": 43989,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/TINTED Thoughts/002_Sorry_to_hear_that.jpg",
+      "bytes": 56327,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/TINTED Thoughts/003_Successfully_completed.jpg",
+      "bytes": 45084,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/Thinking Like a Lawyer/001_Introduction.jpg",
+      "bytes": 64047,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/Thinking Like a Lawyer/002_Type_a_thought.jpg",
+      "bytes": 75804,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/Thinking Like a Lawyer/003_Distress_rating.jpg",
+      "bytes": 44607,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/Thinking Like a Lawyer/004_Prove_it.jpg",
+      "bytes": 52631,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Cognitive Practice/Thinking Like a Lawyer/005_Prove_the_opposite.jpg",
+      "bytes": 112614,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Homework/Practice/001_You_are_doing_great.jpg",
+      "bytes": 86637,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Learn/My List/001_Welcome_back.jpg",
+      "bytes": 86982,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Learn/My List/002_Rerate_items.jpg",
+      "bytes": 91496,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 10/Learn/Overview/001_Overview.jpg",
+      "bytes": 89248,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/001_Homework_index.jpg",
+      "bytes": 56298,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/002_Reminder_set.jpg",
+      "bytes": 65106,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/001_Intro.jpg",
+      "bytes": 77521,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/002_Task_list.jpg",
+      "bytes": 53788,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/003_Selected_task.jpg",
+      "bytes": 66511,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/004_Schedule_prompt.jpg",
+      "bytes": 50132,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/005_Schedule_challenge.jpg",
+      "bytes": 58224,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/006_Pick_future_date_popup.jpg",
+      "bytes": 57622,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/007_Scheduled_challenge.jpg",
+      "bytes": 61105,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/008_Rate_challenge.jpg",
+      "bytes": 51688,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/009_Completion_methods_top.jpg",
+      "bytes": 71996,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/010_Completion_methods_more.jpg",
+      "bytes": 66797,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/011_Write_achievement.jpg",
+      "bytes": 41716,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/012_Rate_after.jpg",
+      "bytes": 63853,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/013_Experience_prompt.jpg",
+      "bytes": 47996,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Face It/014_Successfully_completed.jpg",
+      "bytes": 48781,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Homework/Practice/001_You_are_doing_great.jpg",
+      "bytes": 52980,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Learn/Maintenance & Relapse Prevention/001_Successfully_completed.jpg",
+      "bytes": 48833,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Learn/Overview/001_Overview.jpg",
+      "bytes": 63841,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Review Sleep Tips/001_Intro.jpg",
+      "bytes": 36863,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Review Sleep Tips/002_Checklist.jpg",
+      "bytes": 73309,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Review Sleep Tips/003_Keep_it_up.jpg",
+      "bytes": 43884,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Review Sleep Tips/004_Setting_your_alarm.jpg",
+      "bytes": 52486,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Review Sleep Tips/005_Remember_to_set_alarm.jpg",
+      "bytes": 63599,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Review Sleep Tips/006_Successfully_completed.jpg",
+      "bytes": 44496,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Select an Exercise/001_Selector_top.jpg",
+      "bytes": 57789,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Select an Exercise/002_Selector_options.jpg",
+      "bytes": 63214,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Select an Exercise/003_More_options.jpg",
+      "bytes": 60508,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Select an Exercise/004_Lower_options.jpg",
+      "bytes": 59814,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Select an Exercise/005_Bottom_options.jpg",
+      "bytes": 55258,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Practice/Select an Exercise/006_Congrats_popup.jpg",
+      "bytes": 60478,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Review/Wrap Up/001_Progress_question.jpg",
+      "bytes": 70429,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Review/Wrap Up/002_Thats_great_top.jpg",
+      "bytes": 67870,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Review/Wrap Up/003_Maintain_your_gains.jpg",
+      "bytes": 79967,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Review/Wrap Up/004_Thats_great_bottom.jpg",
+      "bytes": 80441,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 11/Review/Wrap Up/005_Finished_popup.jpg",
+      "bytes": 70718,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 12/001_Locked_index.jpg",
+      "bytes": 89279,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 12/001_Session_index.jpg",
+      "bytes": 49653,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 12/Learn/My List/001_Welcome_back.jpg",
+      "bytes": 52149,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 12/Learn/My List/002_Rerate_items.jpg",
+      "bytes": 55610,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 12/Learn/My List/003_Successfully_completed.jpg",
+      "bytes": 41519,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 12/Learn/Overview/001_Overview.jpg",
+      "bytes": 52796,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/001_Learn_index.jpg",
+      "bytes": 85464,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/002_Practice_index.jpg",
+      "bytes": 86192,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/003_Review_index.jpg",
+      "bytes": 81832,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Homework/001_No_tasks_due.jpg",
+      "bytes": 75699,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/Behavior Strategies/001_Choose_strategy_blank.jpg",
+      "bytes": 107715,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/My List/001_Welcome_back.jpg",
+      "bytes": 85955,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/My List/002_Rerate_blank.jpg",
+      "bytes": 90030,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/My List/003_Rating_picker.jpg",
+      "bytes": 88760,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/My List/004_Rerate_example.jpg",
+      "bytes": 87273,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/My List/005_New_challenge_blank.jpg",
+      "bytes": 85349,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/My List/006_New_challenge_example.jpg",
+      "bytes": 85075,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/My List/007_Completed.jpg",
+      "bytes": 66128,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Learn/Overview/001_Overview.jpg",
+      "bytes": 113913,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/001_Intro.jpg",
+      "bytes": 136245,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/002_Task_picker_top.jpg",
+      "bytes": 87138,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/003_Task_picker_bottom.jpg",
+      "bytes": 80009,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/004_Task_selected.jpg",
+      "bytes": 83185,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/005_Practice_instructions.jpg",
+      "bytes": 111720,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/006_Start_now_or_later.jpg",
+      "bytes": 81968,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/007_Before_practice_rating.jpg",
+      "bytes": 83161,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/008_Completion_method_top.jpg",
+      "bytes": 122085,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/009_Completion_method_middle.jpg",
+      "bytes": 111564,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/010_Completion_method_bottom.jpg",
+      "bytes": 109405,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/011_Write_it_down_selected.jpg",
+      "bytes": 112178,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/012_Achievement_blank.jpg",
+      "bytes": 66578,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/013_Achievement_example.jpg",
+      "bytes": 73653,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/014_After_practice_rating.jpg",
+      "bytes": 106184,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/015_Reflection_blank.jpg",
+      "bytes": 77441,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/016_Reflection_example.jpg",
+      "bytes": 81917,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Practice/Face It/017_Completed.jpg",
+      "bytes": 81779,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/001_Intro.jpg",
+      "bytes": 72548,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/002_Q1_blank.jpg",
+      "bytes": 88399,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/003_Q1_selected.jpg",
+      "bytes": 94363,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/004_Q2_blank.jpg",
+      "bytes": 91373,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/005_Q2_selected.jpg",
+      "bytes": 98342,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/006_Q3_blank.jpg",
+      "bytes": 102185,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/007_Q3_selected.jpg",
+      "bytes": 110109,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/008_Q3_selected_bottom.jpg",
+      "bytes": 105525,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/009_Q4_blank.jpg",
+      "bytes": 115786,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/010_Q4_selected.jpg",
+      "bytes": 124268,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/011_Q4_selected_bottom.jpg",
+      "bytes": 113980,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/012_Q5_blank.jpg",
+      "bytes": 101753,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/013_Q5_selected.jpg",
+      "bytes": 107703,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/014_Q5_selected_bottom.jpg",
+      "bytes": 103421,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Quiz/015_Completed.jpg",
+      "bytes": 67990,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 2/Review/Wrap Up/001_Wrap_Up.jpg",
+      "bytes": 108627,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/001_Learn_initial_index.jpg",
+      "bytes": 86802,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/002_Practice_index.jpg",
+      "bytes": 82353,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/003_Review_index.jpg",
+      "bytes": 79920,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/001_Index.jpg",
+      "bytes": 85666,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/002_Assigned_index.jpg",
+      "bytes": 89235,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/001_Scheduled_challenge.jpg",
+      "bytes": 81924,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/002_Before_rating.jpg",
+      "bytes": 84597,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/003_Completion_methods.jpg",
+      "bytes": 122307,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/004_Completion_methods_middle.jpg",
+      "bytes": 111785,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/005_Completion_methods_bottom.jpg",
+      "bytes": 109820,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/006_Write_down_selected.jpg",
+      "bytes": 105602,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/007_Achievement_blank.jpg",
+      "bytes": 66664,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/008_Achievement_example.jpg",
+      "bytes": 73219,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/009_After_rating.jpg",
+      "bytes": 106632,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/010_Reflection_blank.jpg",
+      "bytes": 77426,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/011_Reflection_example.jpg",
+      "bytes": 79113,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Face It/012_Completed.jpg",
+      "bytes": 81954,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Practice/001_Screen_01.jpg",
+      "bytes": 87547,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Homework/Practice/002_Screen_02.jpg",
+      "bytes": 93333,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Learn/Overview/001_Overview.jpg",
+      "bytes": 130080,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Learn/Overview/002_Overview_bottom.jpg",
+      "bytes": 126786,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Learn/Thinking About Thoughts/001_Completed.jpg",
+      "bytes": 73103,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/001_Intro.jpg",
+      "bytes": 136010,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/002_Task_picker.jpg",
+      "bytes": 87652,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/003_Task_selected.jpg",
+      "bytes": 89945,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/004_Task_selected_bottom.jpg",
+      "bytes": 84177,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/005_Instructions.jpg",
+      "bytes": 112076,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/006_Now_or_later.jpg",
+      "bytes": 82183,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/007_Scheduled.jpg",
+      "bytes": 96127,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/008_Schedule_confirmation.jpg",
+      "bytes": 94197,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/009_Schedule_selected_date.jpg",
+      "bytes": 94813,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/Face It/010_Scheduled_result.jpg",
+      "bytes": 82804,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/001_Intro.jpg",
+      "bytes": 72577,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/002_Identifying_info.jpg",
+      "bytes": 140298,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/003_Thought_blank.jpg",
+      "bytes": 70921,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/004_Thought_example.jpg",
+      "bytes": 77296,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/005_Distress_before_blank.jpg",
+      "bytes": 84206,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/006_Distress_before_example.jpg",
+      "bytes": 80931,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/007_Step_07.jpg",
+      "bytes": 80642,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/008_Telling_future_yes.jpg",
+      "bytes": 113728,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/009_Telling_future_reframe_blank.jpg",
+      "bytes": 105437,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/010_Telling_future_no_feedback.jpg",
+      "bytes": 80665,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/011_Interpreting_yes.jpg",
+      "bytes": 128615,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/012_Interpreting_yes_bottom.jpg",
+      "bytes": 118714,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/013_Step_13.jpg",
+      "bytes": 84774,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/014_Negative_focus_yes.jpg",
+      "bytes": 144698,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/015_Negative_focus_yes_bottom.jpg",
+      "bytes": 142316,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/016_Step_16.jpg",
+      "bytes": 77557,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/017_Taking_blame_yes.jpg",
+      "bytes": 122522,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/018_Taking_blame_bottom.jpg",
+      "bytes": 112022,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/019_Step_19.jpg",
+      "bytes": 71314,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/020_Extreme_thinking_yes.jpg",
+      "bytes": 135495,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/021_Extreme_thinking_bottom.jpg",
+      "bytes": 125339,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/022_Step_22.jpg",
+      "bytes": 74632,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/023_Disaster_yes.jpg",
+      "bytes": 132165,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/024_Disaster_bottom.jpg",
+      "bytes": 122632,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/025_Step_25.jpg",
+      "bytes": 96157,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/026_Step_26.jpg",
+      "bytes": 86731,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/027_Reframed_example.jpg",
+      "bytes": 88895,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/028_Step_28.jpg",
+      "bytes": 90822,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/029_Step_29.jpg",
+      "bytes": 83108,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/030_Distress_after_example.jpg",
+      "bytes": 79414,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/031_Step_31.jpg",
+      "bytes": 80432,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Practice/TINTED Thoughts/032_Step_32.jpg",
+      "bytes": 68530,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/001_Intro.jpg",
+      "bytes": 72711,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/002_Q1_blank.jpg",
+      "bytes": 70726,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/003_Q1_incorrect.jpg",
+      "bytes": 82184,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/004_Q2_incorrect.jpg",
+      "bytes": 109321,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/005_Step_05.jpg",
+      "bytes": 82273,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/006_Q3_incorrect.jpg",
+      "bytes": 91069,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/007_Q4_blank.jpg",
+      "bytes": 79982,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/008_Q4_incorrect.jpg",
+      "bytes": 91050,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/009_Q5_blank.jpg",
+      "bytes": 109616,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/010_Q5_incorrect.jpg",
+      "bytes": 116324,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/011_First_pass_result.jpg",
+      "bytes": 67917,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/012_Q1_correct.jpg",
+      "bytes": 76143,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/013_Q2_blank.jpg",
+      "bytes": 102957,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Quiz/014_Q2_correct.jpg",
+      "bytes": 104087,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 3/Review/Wrap Up/001_Overview.jpg",
+      "bytes": 100243,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/001_Learn_index.jpg",
+      "bytes": 81077,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/002_Practice_index.jpg",
+      "bytes": 82773,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/003_Review_index.jpg",
+      "bytes": 83066,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Homework/001_Homework_index.jpg",
+      "bytes": 92528,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Learn/My List/001_Intro.jpg",
+      "bytes": 83036,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Learn/Overview/001_Overview.jpg",
+      "bytes": 114507,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/001_Intro.jpg",
+      "bytes": 75160,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/002_Instructions.jpg",
+      "bytes": 101639,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/003_Which_hand_moved.jpg",
+      "bytes": 91299,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/004_Belly_breathing.jpg",
+      "bytes": 123565,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/005_Practice_instructions.jpg",
+      "bytes": 88384,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/006_Audio_player.jpg",
+      "bytes": 87700,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/007_Stress_after.jpg",
+      "bytes": 75650,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/008_Feedback.jpg",
+      "bytes": 99578,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Deep Breathing/009_Completed.jpg",
+      "bytes": 70451,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/001_Intro.jpg",
+      "bytes": 73155,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/002_Instructions.jpg",
+      "bytes": 92777,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/003_Tension_feedback.jpg",
+      "bytes": 102591,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/004_Screen_04.jpg",
+      "bytes": 88439,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/005_Audio_player.jpg",
+      "bytes": 88268,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/006_Stress_after.jpg",
+      "bytes": 80393,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/007_Feedback.jpg",
+      "bytes": 101382,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Practice/Muscle Relaxation/008_Completed.jpg",
+      "bytes": 63544,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 4/Review/Wrap Up/001_Wrap_up.jpg",
+      "bytes": 116792,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/001_Learn_index.jpg",
+      "bytes": 83160,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/002_Practice_index.jpg",
+      "bytes": 84866,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Homework/001_001_Homework_index.jpg",
+      "bytes": 89145,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Homework/Practice/001_001_Encouragement.jpg",
+      "bytes": 87338,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Learn/Overview/001_Overview.jpg",
+      "bytes": 98879,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/001_Intro.jpg",
+      "bytes": 85498,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/002_Exercise_complete_modal.jpg",
+      "bytes": 89792,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/001_Intro.jpg",
+      "bytes": 108071,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/002_Thought_blank.jpg",
+      "bytes": 128074,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/003_Distress_before.jpg",
+      "bytes": 77130,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/004_Evidence_for_blank.jpg",
+      "bytes": 94822,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/005_Evidence_for_example.jpg",
+      "bytes": 99583,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/006_Evidence_for_field.jpg",
+      "bytes": 96965,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/007_Evidence_against_blank.jpg",
+      "bytes": 76360,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/008_Evidence_against_intro.jpg",
+      "bytes": 117941,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/009_Evidence_against_example.jpg",
+      "bytes": 117374,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/010_Evidence_against_example_open.jpg",
+      "bytes": 124730,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/011_Evidence_against_fields.jpg",
+      "bytes": 84093,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/012_Judge_intro.jpg",
+      "bytes": 101830,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/013_Judge_intro_scrolled.jpg",
+      "bytes": 87657,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/014_Realistic_thought_blank.jpg",
+      "bytes": 104632,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/015_Distress_after.jpg",
+      "bytes": 78097,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/016_Feedback.jpg",
+      "bytes": 80533,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Cognitive Practice/Thinking Like a Lawyer/017_Completed.jpg",
+      "bytes": 71700,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/001_Intro.jpg",
+      "bytes": 79867,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/002_Meaning_question_top.jpg",
+      "bytes": 106468,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/003_Meaning_question_bottom.jpg",
+      "bytes": 84287,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/004_Meaning_question_submit.jpg",
+      "bytes": 83381,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/005_Meaning_feedback.jpg",
+      "bytes": 103485,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/006_Thought_observation_intro.jpg",
+      "bytes": 100773,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/007_Thought_observation_example.jpg",
+      "bytes": 111455,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/008_Thought_bubbles_blank.jpg",
+      "bytes": 86139,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/009_009_Thought_bubbles_timer_complete.jpg",
+      "bytes": 75411,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/010_010_Nice_work.jpg",
+      "bytes": 96495,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/011_011_Let_thoughts_be.jpg",
+      "bytes": 88167,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/012_012_Audio_stress_before.jpg",
+      "bytes": 89913,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/013_013_Play_audio.jpg",
+      "bytes": 88089,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/014_014_Audio_player.jpg",
+      "bytes": 87294,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/015_015_Stress_after.jpg",
+      "bytes": 86423,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/016_016_Submit_rating.jpg",
+      "bytes": 87195,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/017_017_Reflection_complete.jpg",
+      "bytes": 109740,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Mindfulness/018_018_Completed.jpg",
+      "bytes": 73759,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/001_001_Intro.jpg",
+      "bytes": 70832,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/002_002_SOLVE_steps.jpg",
+      "bytes": 101169,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/003_003_State_problem.jpg",
+      "bytes": 106699,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/004_004_State_problem_filled.jpg",
+      "bytes": 105359,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/005_005_Options_blank.jpg",
+      "bytes": 91710,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/006_006_Options_filled.jpg",
+      "bytes": 91664,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/007_007_Options_complete.jpg",
+      "bytes": 90186,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/008_008_Look_closely_option1.jpg",
+      "bytes": 90814,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/009_009_Option1_pros_cons.jpg",
+      "bytes": 88489,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/010_010_Look_closely_option2.jpg",
+      "bytes": 95016,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/011_011_Look_closely_option3.jpg",
+      "bytes": 86121,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/012_012_Look_closely_option4.jpg",
+      "bytes": 66033,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/013_013_Look_closely_option5.jpg",
+      "bytes": 68334,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/014_014_Pros_cons_complete.jpg",
+      "bytes": 66833,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/015_015_Vote_options.jpg",
+      "bytes": 80447,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/016_016_Evaluate.jpg",
+      "bytes": 78731,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Practice/Problem Solving/017_017_Completed.jpg",
+      "bytes": 68292,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 5/Review/Wrap Up/001_001_Wrap_Up.jpg",
+      "bytes": 93630,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/001_001_Session_index.jpg",
+      "bytes": 81167,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Homework/001_001_001_Homework_index.jpg",
+      "bytes": 89958,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Homework/Select an Exercise/001_001_001_Selection_top.jpg",
+      "bytes": 94048,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Homework/Select an Exercise/002_002_002_Selection_middle.jpg",
+      "bytes": 106239,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Homework/Select an Exercise/003_003_003_Selection_bottom.jpg",
+      "bytes": 102805,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Homework/Select an Exercise/004_004_004_Finished_exercise_notice.jpg",
+      "bytes": 101739,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Learn/My List/001_001_Intro.jpg",
+      "bytes": 86109,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Learn/My List/002_002_Rerate_list_top.jpg",
+      "bytes": 91540,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Learn/My List/003_003_Rerate_list_bottom.jpg",
+      "bytes": 82150,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Learn/My List/004_004_Rerate_complete.jpg",
+      "bytes": 84756,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Learn/My List/005_005_Completed.jpg",
+      "bytes": 65779,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Learn/Overview/001_001_Overview.jpg",
+      "bytes": 99170,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Practice/001_001_Practice_index.jpg",
+      "bytes": 82364,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Practice/Cognitive Practice/001_001_Exercise_choice.jpg",
+      "bytes": 82484,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Practice/Cognitive Practice/002_002_002_Thinking_Like_A_Lawyer_Completed.jpg",
+      "bytes": 71830,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Practice/Cognitive Practice/003_003_003_Finished_exercise_notice.jpg",
+      "bytes": 90062,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Practice/Face It/001_001_001_Completed.jpg",
+      "bytes": 81469,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 6/Review/Wrap Up/001_001_001_Wrap_Up.jpg",
+      "bytes": 100464,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 7/001_001_001_Session_index.jpg",
+      "bytes": 85024,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 7/Homework/Practice/001_You_are_doing_great.jpg",
+      "bytes": 87148,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 7/Learn/Overview/001_001_001_Overview.jpg",
+      "bytes": 100912,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 7/Practice/001_001_001_Practice_index.jpg",
+      "bytes": 82797,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 7/Review/Wrap Up/001_Wrap_Up_top.jpg",
+      "bytes": 95783,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 7/Review/Wrap Up/002_Wrap_Up_complete.jpg",
+      "bytes": 95989,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 8/001_Session_index.jpg",
+      "bytes": 78196,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 8/Learn/My List/001_My_List_intro.jpg",
+      "bytes": 86699,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 8/Learn/My List/002_Re_rate_list_top.jpg",
+      "bytes": 91347,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 8/Learn/My List/003_Re_rate_list_bottom.jpg",
+      "bytes": 81908,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 8/Learn/My List/004_Completed.jpg",
+      "bytes": 65593,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 8/Learn/Overview/001_Overview.jpg",
+      "bytes": 84989,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 9/001_Session_index.jpg",
+      "bytes": 85996,
+      "format": "jpeg"
+    },
+    {
+      "path": "Session 9/Learn/Overview/001_Overview.jpg",
+      "bytes": 89421,
+      "format": "jpeg"
+    }
+  ]
+}
